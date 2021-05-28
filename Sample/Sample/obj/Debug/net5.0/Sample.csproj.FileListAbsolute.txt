@@ -1,0 +1,15 @@
+/Users/zyonsavery/Library/Mobile Documents/com~apple~CloudDocs/Obsidian Vaults/Job Hunting/Job Hunting/Learn-CSharp/Sample/Sample/bin/Debug/net5.0/Sample.deps.json
+/Users/zyonsavery/Library/Mobile Documents/com~apple~CloudDocs/Obsidian Vaults/Job Hunting/Job Hunting/Learn-CSharp/Sample/Sample/bin/Debug/net5.0/Sample.runtimeconfig.json
+/Users/zyonsavery/Library/Mobile Documents/com~apple~CloudDocs/Obsidian Vaults/Job Hunting/Job Hunting/Learn-CSharp/Sample/Sample/bin/Debug/net5.0/Sample.runtimeconfig.dev.json
+/Users/zyonsavery/Library/Mobile Documents/com~apple~CloudDocs/Obsidian Vaults/Job Hunting/Job Hunting/Learn-CSharp/Sample/Sample/bin/Debug/net5.0/Sample.dll
+/Users/zyonsavery/Library/Mobile Documents/com~apple~CloudDocs/Obsidian Vaults/Job Hunting/Job Hunting/Learn-CSharp/Sample/Sample/bin/Debug/net5.0/ref/Sample.dll
+/Users/zyonsavery/Library/Mobile Documents/com~apple~CloudDocs/Obsidian Vaults/Job Hunting/Job Hunting/Learn-CSharp/Sample/Sample/bin/Debug/net5.0/Sample.pdb
+/Users/zyonsavery/Library/Mobile Documents/com~apple~CloudDocs/Obsidian Vaults/Job Hunting/Job Hunting/Learn-CSharp/Sample/Sample/obj/Debug/net5.0/Sample.csprojAssemblyReference.cache
+/Users/zyonsavery/Library/Mobile Documents/com~apple~CloudDocs/Obsidian Vaults/Job Hunting/Job Hunting/Learn-CSharp/Sample/Sample/obj/Debug/net5.0/Sample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zyonsavery/Library/Mobile Documents/com~apple~CloudDocs/Obsidian Vaults/Job Hunting/Job Hunting/Learn-CSharp/Sample/Sample/obj/Debug/net5.0/Sample.AssemblyInfoInputs.cache
+/Users/zyonsavery/Library/Mobile Documents/com~apple~CloudDocs/Obsidian Vaults/Job Hunting/Job Hunting/Learn-CSharp/Sample/Sample/obj/Debug/net5.0/Sample.AssemblyInfo.cs
+/Users/zyonsavery/Library/Mobile Documents/com~apple~CloudDocs/Obsidian Vaults/Job Hunting/Job Hunting/Learn-CSharp/Sample/Sample/obj/Debug/net5.0/Sample.csproj.CoreCompileInputs.cache
+/Users/zyonsavery/Library/Mobile Documents/com~apple~CloudDocs/Obsidian Vaults/Job Hunting/Job Hunting/Learn-CSharp/Sample/Sample/obj/Debug/net5.0/Sample.dll
+/Users/zyonsavery/Library/Mobile Documents/com~apple~CloudDocs/Obsidian Vaults/Job Hunting/Job Hunting/Learn-CSharp/Sample/Sample/obj/Debug/net5.0/ref/Sample.dll
+/Users/zyonsavery/Library/Mobile Documents/com~apple~CloudDocs/Obsidian Vaults/Job Hunting/Job Hunting/Learn-CSharp/Sample/Sample/obj/Debug/net5.0/Sample.pdb
+/Users/zyonsavery/Library/Mobile Documents/com~apple~CloudDocs/Obsidian Vaults/Job Hunting/Job Hunting/Learn-CSharp/Sample/Sample/obj/Debug/net5.0/Sample.genruntimeconfig.cache
