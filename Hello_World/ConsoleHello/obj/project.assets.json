@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/zyonsavery/Library/Mobile Documents/com~apple~CloudDocs/Obsidian Vaults/Job Hunting/Job Hunting/Learn-CSharp/Hello_World/ConsoleHello/ConsoleHello.csproj",
+      "projectUniqueName": "/Users/zyonsavery/Library/Mobile Documents/com~apple~CloudDocs/Obsidian Vaults/Job Hunting/Learn-CSharp/Hello_World/ConsoleHello/ConsoleHello.csproj",
       "projectName": "ConsoleHello",
-      "projectPath": "/Users/zyonsavery/Library/Mobile Documents/com~apple~CloudDocs/Obsidian Vaults/Job Hunting/Job Hunting/Learn-CSharp/Hello_World/ConsoleHello/ConsoleHello.csproj",
+      "projectPath": "/Users/zyonsavery/Library/Mobile Documents/com~apple~CloudDocs/Obsidian Vaults/Job Hunting/Learn-CSharp/Hello_World/ConsoleHello/ConsoleHello.csproj",
       "packagesPath": "/Users/zyonsavery/.nuget/packages/",
-      "outputPath": "/Users/zyonsavery/Library/Mobile Documents/com~apple~CloudDocs/Obsidian Vaults/Job Hunting/Job Hunting/Learn-CSharp/Hello_World/ConsoleHello/obj/",
+      "outputPath": "/Users/zyonsavery/Library/Mobile Documents/com~apple~CloudDocs/Obsidian Vaults/Job Hunting/Learn-CSharp/Hello_World/ConsoleHello/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/zyonsavery/.nuget/NuGet/NuGet.Config"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/Users/zyonsavery/.dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
       }
     }
   }

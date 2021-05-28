@@ -23,25 +23,38 @@ namespace Loops
             var newStudent = new FieldTripStudent();
             // Get student first and last name
             Console.Write("\nEnter first name: ");
-            newStudent.firstName = Console.Read().ToString();
-            Console.Write("\nEnter last name: ");
-            newStudent.lastName = Console.Read().ToString();
+            newStudent.firstName = Console.ReadLine().ToString();
+            Console.Write("Enter last name: ");
+            newStudent.lastName = Console.ReadLine().ToString();
             // Seat number for bus
-            Console.Write("\nEnter bus seat number: ");
-            newStudent.seatNumber = Console.Read();
+            Console.Write("Enter bus seat number: ");
+            newStudent.seatNumber = int.Parse(Console.ReadLine());
             // Group number
-            Console.Write("\nEnter group number: ");
-            newStudent.group.number = console.Read();
+            Console.Write("Enter group number: ");
+            newStudent.group.number = int.Parse(Console.ReadLine());
             // Hotel Room Number
-            Console.Write("\nEnter full name of group chaparone: ");
-            newStudent.group.guideName = console.Read();
+            Console.Write("Enter full name of group chaparone: ");
+            newStudent.group.guideName = Console.ReadLine().ToString();
             // 
-            Console.Write("\nEnter hotel room number: ");
-            newStudent.group.roomNumber = console.Read();
+            Console.Write("Enter hotel room number: ");
+            newStudent.group.roomNumber = int.Parse(Console.ReadLine());
             
             lst.Add(newStudent);
 
             return;
+        }
+        static void ReadList(List<FieldTripStudent> lst )
+        {
+            foreach(FieldTripStudent student in lst)
+            {
+                Console.WriteLine("\nStudent Name: {0} {1}", student.firstName, 
+                    student.lastName);
+                Console.WriteLine("Seat Number: {0}", student.seatNumber);
+                Console.WriteLine("Group Number: {0}", student.group.number);
+                Console.WriteLine("Guide Number: {0}", student.group.guideName);
+                Console.WriteLine("Hotel Room Number: {0}", student.group.roomNumber);
+                
+            }
         }
         static void Main(string[] args)
         {
@@ -50,22 +63,23 @@ namespace Loops
             do
             {
                 Console.Write("Do you wish to add a new student to the field trip list?\nEnter Yes or No: ");
-                var selection = Console.Read();
+                var selection = Console.ReadLine();
                 if(selection.ToString().ToLower() == "no")
                 {
                     keepGoing = false;
                 }
                 else if(selection.ToString().ToLower() == "yes")
                 {
-                    addStudent();
+                    addStudent(lst: ref fieldTrip);
                 }
                 else
                 {
-                    console.WriteLine("\nInvalid selection!");
+                    Console.WriteLine("\nInvalid selection!");
                     
                 }
 
             }while(keepGoing == true);
+            ReadList(fieldTrip);
     
         }
     }
@@ -78,13 +92,13 @@ class FieldTripStudent
     public string firstName;
     public string lastName;
     public int seatNumber;
-    public Group group; 
+    public Group group = new Group(); 
 
 }
 
-struct Group
+class Group
 {
-    int number;
-    string guideName;
-    int roomNumber;
+    public int number;
+    public string guideName;
+    public int roomNumber;
 }

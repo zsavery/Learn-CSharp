@@ -13,3 +13,18 @@
 /Users/zyonsavery/Library/Mobile Documents/com~apple~CloudDocs/Obsidian Vaults/Job Hunting/Job Hunting/Learn-CSharp/Hello_World/ConsoleHello/obj/Debug/net5.0/ref/ConsoleHello.dll
 /Users/zyonsavery/Library/Mobile Documents/com~apple~CloudDocs/Obsidian Vaults/Job Hunting/Job Hunting/Learn-CSharp/Hello_World/ConsoleHello/obj/Debug/net5.0/ConsoleHello.pdb
 /Users/zyonsavery/Library/Mobile Documents/com~apple~CloudDocs/Obsidian Vaults/Job Hunting/Job Hunting/Learn-CSharp/Hello_World/ConsoleHello/obj/Debug/net5.0/ConsoleHello.genruntimeconfig.cache
+/Users/zyonsavery/Library/Mobile Documents/com~apple~CloudDocs/Obsidian Vaults/Job Hunting/Learn-CSharp/Hello_World/ConsoleHello/bin/Debug/net5.0/ConsoleHello.deps.json
+/Users/zyonsavery/Library/Mobile Documents/com~apple~CloudDocs/Obsidian Vaults/Job Hunting/Learn-CSharp/Hello_World/ConsoleHello/bin/Debug/net5.0/ConsoleHello.runtimeconfig.json
+/Users/zyonsavery/Library/Mobile Documents/com~apple~CloudDocs/Obsidian Vaults/Job Hunting/Learn-CSharp/Hello_World/ConsoleHello/bin/Debug/net5.0/ConsoleHello.runtimeconfig.dev.json
+/Users/zyonsavery/Library/Mobile Documents/com~apple~CloudDocs/Obsidian Vaults/Job Hunting/Learn-CSharp/Hello_World/ConsoleHello/bin/Debug/net5.0/ConsoleHello.dll
+/Users/zyonsavery/Library/Mobile Documents/com~apple~CloudDocs/Obsidian Vaults/Job Hunting/Learn-CSharp/Hello_World/ConsoleHello/bin/Debug/net5.0/ref/ConsoleHello.dll
+/Users/zyonsavery/Library/Mobile Documents/com~apple~CloudDocs/Obsidian Vaults/Job Hunting/Learn-CSharp/Hello_World/ConsoleHello/bin/Debug/net5.0/ConsoleHello.pdb
+/Users/zyonsavery/Library/Mobile Documents/com~apple~CloudDocs/Obsidian Vaults/Job Hunting/Learn-CSharp/Hello_World/ConsoleHello/obj/Debug/net5.0/ConsoleHello.csprojAssemblyReference.cache
+/Users/zyonsavery/Library/Mobile Documents/com~apple~CloudDocs/Obsidian Vaults/Job Hunting/Learn-CSharp/Hello_World/ConsoleHello/obj/Debug/net5.0/ConsoleHello.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zyonsavery/Library/Mobile Documents/com~apple~CloudDocs/Obsidian Vaults/Job Hunting/Learn-CSharp/Hello_World/ConsoleHello/obj/Debug/net5.0/ConsoleHello.AssemblyInfoInputs.cache
+/Users/zyonsavery/Library/Mobile Documents/com~apple~CloudDocs/Obsidian Vaults/Job Hunting/Learn-CSharp/Hello_World/ConsoleHello/obj/Debug/net5.0/ConsoleHello.AssemblyInfo.cs
+/Users/zyonsavery/Library/Mobile Documents/com~apple~CloudDocs/Obsidian Vaults/Job Hunting/Learn-CSharp/Hello_World/ConsoleHello/obj/Debug/net5.0/ConsoleHello.csproj.CoreCompileInputs.cache
+/Users/zyonsavery/Library/Mobile Documents/com~apple~CloudDocs/Obsidian Vaults/Job Hunting/Learn-CSharp/Hello_World/ConsoleHello/obj/Debug/net5.0/ConsoleHello.dll
+/Users/zyonsavery/Library/Mobile Documents/com~apple~CloudDocs/Obsidian Vaults/Job Hunting/Learn-CSharp/Hello_World/ConsoleHello/obj/Debug/net5.0/ref/ConsoleHello.dll
+/Users/zyonsavery/Library/Mobile Documents/com~apple~CloudDocs/Obsidian Vaults/Job Hunting/Learn-CSharp/Hello_World/ConsoleHello/obj/Debug/net5.0/ConsoleHello.pdb
+/Users/zyonsavery/Library/Mobile Documents/com~apple~CloudDocs/Obsidian Vaults/Job Hunting/Learn-CSharp/Hello_World/ConsoleHello/obj/Debug/net5.0/ConsoleHello.genruntimeconfig.cache
