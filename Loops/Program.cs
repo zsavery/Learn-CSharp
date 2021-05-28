@@ -14,7 +14,6 @@ namespace Loops
             - group number
                 - Teacher/Chaperone 
                 - room number
-            - may have allergies
 
         */
         static void addStudent(ref List<FieldTripStudent> lst )
